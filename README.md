@@ -2,7 +2,7 @@
 ---
 - 👀 I’m interested in cybersecurity, web and mobile development 
 - 🌱 I’m currently learning React Native and NodeJS
-- 📫 brmenna@gmailcom | [LinkedIn Profile](https://www.linkedin.com/in/bruno-menna-barreto-36a371160)
+- 📫 brmenna@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/bruno-menna-barreto-36a371160)
 
 <!---
 mennabruno/mennabruno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
